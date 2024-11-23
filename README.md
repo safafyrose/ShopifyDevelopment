@@ -1,5 +1,8 @@
 # Elevate E-Commerce Website
 
+https://github.com/user-attachments/assets/f364af8a-a8ea-481b-95fc-c3efdc77dbe6
+
+
 Welcome to the Elevate E-Commerce Website project! This website is built on Shopify and designed to provide a seamless online shopping experience. The platform features a fully customized theme tailored to enhance user engagement and optimize the shopping journey.
 
 To see how the website works in action, I have uploaded a video demonstrating the key features and functionality of the site. 
